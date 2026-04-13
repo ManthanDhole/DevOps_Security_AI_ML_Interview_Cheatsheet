@@ -49,6 +49,8 @@
 
 
 #### Application Security
+1. OAuth: Open Authorization
+2. OIDC: Open Identity Connect
 
 
 #### Security & Compliance Frameworks
