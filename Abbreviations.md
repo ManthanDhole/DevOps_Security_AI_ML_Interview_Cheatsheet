@@ -11,13 +11,14 @@
 6. IaC Security: Infrastructure as Code Security
 7. CI/CD Security: Continuous Integration & Continuous Delivery Security
 8. RASP: Runtime Application Self Protection
-9. WAF: Web Application Firewall
-10. IDS/IPS: Intrusion Detection System & Intrusion Prevention System
-11. CASB: Cloud Access Security Broker
-12. DLP: Data Loss Prevention
-13. DAM: Database Access Monitoring
-14. SIEM: Security Incident & Event Management
-15. SOAR: Security Orchestration, Automation and Response
+9. MAST: Mobile Application Security Testing
+10. WAF: Web Application Firewall
+11. IDS/IPS: Intrusion Detection System & Intrusion Prevention System
+12. CASB: Cloud Access Security Broker
+13. DLP: Data Loss Prevention
+14. DAM: Database Access Monitoring
+15. SIEM: Security Incident & Event Management
+16. SOAR: Security Orchestration, Automation and Response
 
 
 ### Threat Modeling Frameworks
