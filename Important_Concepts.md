@@ -1,5 +1,17 @@
 ## Important Concepts
 
+### Cloud Computing
+1. IaaS, PaaS, SaaS, FaaS
+2. VPC, Subnets, Route Tables, NAT, Security Groups
+3. DNS
+4. Load Balancers (ALB, NLB)
+5. Storage Sytems (Block, Volume, Object)
+
+## Security
+
+1. TLS / mTLS
+2. HTTP / HTTPs
+
 
 ### DevSecOps
 1. SAST
@@ -10,6 +22,8 @@
 6. Secret Detection & Management
 7. IAST
 8. RASP
+
+
 
 ### Application Security
 

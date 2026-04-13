@@ -20,10 +20,23 @@
 
 ### Security
 
+1. CVE: Common Vulnerabilities and Exposures
+2. CWE: Common Weaknesses Enumeration
+3. CVSS: Common Vulnerability Scoring System
+4. EPSS: Exploit Prediction Scoring System
+
 #### Network Security
 1. WEP: Wired Equivalent Privacy
 2. WPA/WPA2: WiFi Protected Access 
 3. NMAP: Network Mapper
+4. SSL: Secure Sockets Layer
+5. TLS: Transport Layer Security
+6. mTLS: Mutual Transport Layer Security (Client-Server Validation)
+7. VPN: Virtual Private Network 
+8. NAT: Network Address Translation
+9. ARP: Address Resolution Protocol
+10. DHCP: Dynamic Host Configuration Protocol
+
 
 #### Application Security
 
@@ -42,11 +55,13 @@
 2. XSS: Cross Site Scripting
 3. SQLi: SQL Injection
 4. IDOR: Insecure Direct Object Reference (Access Control Vulnerability)
+5. MiTM: Man in the Middle
 
 
 
 ### SRE (Site Reliability Engineering)
- 
+
+
 ### AI ML (Artificial Intelligence & Machine Learning)
 1. GenAI: Generation AI
 2. RAG: Retrieval Augmented Generation
