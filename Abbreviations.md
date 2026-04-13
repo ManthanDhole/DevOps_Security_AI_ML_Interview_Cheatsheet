@@ -16,7 +16,17 @@
 11. CASB: Cloud Access Security Broker
 12. DLP: Data Loss Prevention
 13. DAM: Database Access Monitoring
+14. SIEM: Security Incident & Event Management
+15. SOAR: Security Orchestration, Automation and Response
 
+
+### Threat Modeling Frameworks
+1. STRIDE: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privileges
+2. DREAD: Damage Potential, Reproducibility, Exploitability, Affected Users, Discoverability   
+3. PASTA: Process of Attack Simulation & Threat Analysis
+4. TRIKE: Threat, Risk, Identification, Knowledge, Evaluation
+5. OCTAVE: Operationally Critical Threats, Asset and Vulnerability Evaluation
+6. ATASM: Architecture, Threats, Attack Surfaces & Mitigation
 
 ### Security
 
