@@ -16,15 +16,14 @@ A Kubernetes Cluster consist of:
    b. kube-proxy <br>
 
 
-   ### Kubernetes Core Objects
-
-   1. Pod
-   2. Replica Set
-   3. Deployment
-   4. Namespace
-   5. Services
-   6. Stateful Set
-   7. Daemon Set
-   8. ConfigMaps
-   9. Secrets
-   10. Persistent Volumes
+### Kubernetes Core Objects
+1. Pod
+2. Replica Set
+3. Deployment
+4. Namespace
+5. Services
+6. Stateful Set
+7. Daemon Set
+8. ConfigMaps
+9. Secrets
+10. Persistent Volumes
