@@ -6,6 +6,7 @@
 3. DNS
 4. Load Balancers (ALB, NLB)
 5. Storage Sytems (Block, Volume, Object)
+6. KMS: Key Management Service
 
 ## Security
 
