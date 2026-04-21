@@ -12,7 +12,7 @@
 
 1. TLS / mTLS
 2. HTTP / HTTPs
-
+3. Honeypots: A dummy machine usually with some valueable but fake data as in production environment, use to detect & distract attackers and analyze the attack patterns to further secure your architecture and boundaries.  
 
 ### DevSecOps
 1. SAST
@@ -23,8 +23,6 @@
 6. Secret Detection & Management
 7. IAST
 8. RASP
-
-
 
 ### Application Security
 

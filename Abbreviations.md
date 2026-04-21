@@ -47,6 +47,9 @@
 8. NAT: Network Address Translation
 9. ARP: Address Resolution Protocol
 10. DHCP: Dynamic Host Configuration Protocol
+11. WAF: Web Application Firewall
+12. NAT: Network Address Translation
+13. NACL: Network Access Control List
 
 
 #### Application Security
