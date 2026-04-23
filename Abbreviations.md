@@ -82,3 +82,10 @@
 1. GenAI: Generation AI
 2. RAG: Retrieval Augmented Generation
 3. LLM: Large Language Model
+
+### Cryptography
+1. HSM: Hardware Security Module 
+2. TPM: Trusted Platform Module 
+3. KMS: Key Management Service
+4. SHA: Secure Hash Algorithm
+5. RSA: Rivest Shamir Adleman
