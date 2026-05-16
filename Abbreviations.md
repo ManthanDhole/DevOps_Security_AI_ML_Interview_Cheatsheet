@@ -87,7 +87,7 @@
 8. Toil Reduction
 9. Capacity Engineering: Autoscaling Strategies, Forecasting Traffic Growth
 10. Change Management
-11. Observability: Metrics, Logs, Taces
+11. Observability: Metrics, Logs, Traces
 12. Latency, Traffic, Satuation
 13. High Availability
 14. Disaster Recovery
