@@ -12,13 +12,14 @@
 7. CI/CD Security: Continuous Integration & Continuous Delivery Security
 8. RASP: Runtime Application Self Protection
 9. MAST: Mobile Application Security Testing
-10. WAF: Web Application Firewall
-11. IDS/IPS: Intrusion Detection System & Intrusion Prevention System
-12. CASB: Cloud Access Security Broker
-13. DLP: Data Loss Prevention
-14. DAM: Database Access Monitoring
-15. SIEM: Security Incident & Event Management
+10. IDS/IPS: Intrusion Detection System & Intrusion Prevention System
+11. CASB: Cloud Access Security Broker
+12. DLP: Data Loss Prevention
+13. DAM: Database Access Monitoring
+14. SIEM: Security Incident & Event Management
+15. CIEM: Cloud Infrastructure Entitlement Management
 16. SOAR: Security Orchestration, Automation and Response
+17. CNAPP: Cloud Native Application Protection Platform
 
 
 ### Threat Modeling Frameworks
@@ -76,7 +77,25 @@
 
 
 ### SRE (Site Reliability Engineering)
-
+1. SLO: Service Level Objectives
+2. SLA: Service Level Agreement
+3. SLI: Service Level Indicators
+4. Error Budget
+5. Reliability
+6. Incident Response & Management
+7. Postmortems
+8. Toil Reduction
+9. Capacity Engineering: Autoscaling Strategies, Forecasting Traffic Growth
+10. Change Management
+11. Observability: Metrics, Logs, Taces
+12. Latency, Traffic, Satuation
+13. High Availability
+14. Disaster Recovery
+15. Release Engineering
+16. Reliability Engineering Patterns: Circuit Breakers, Bulkheads, Rate Limiting, Retry Policies, Dead letter Queues, Graceful Degradation
+17. Performance Engineering: System Bottlenecks, CPU Profiling, Memory Leaks, Network Latency, Database Optimization, Caching Strategies
+18. Chaos Engineering: Testing Failures intentionally, Killing Pods, Simulating Latency, Region Failure Drills
+19. Operational Excellence: Runbooks, Automation Maturity, Error Prevention, Standardization, Reliability Culture
 
 ### AI ML (Artificial Intelligence & Machine Learning)
 1. GenAI: Generation AI
